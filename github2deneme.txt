@@ -1,0 +1,16 @@
+#include <iostream> 
+6
+7 using std::cout; 
+8 using std::endl; 
+9
+10 #include <iomanip> 
+11
+12 using std::ios; 
+13 using std::setw; 
+14 using std::hex; 
+15 using std::dec; 
+16 using std::setfill; 
+17
+18 int main() 
+19 { 
+20 int x = 10000;
