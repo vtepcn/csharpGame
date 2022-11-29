@@ -1,0 +1,14 @@
+C:\Users\ACER\Desktop\c#\Sayımatik\bin\Debug\Sayımatik.exe.config
+C:\Users\ACER\Desktop\c#\Sayımatik\bin\Debug\Sayımatik.exe
+C:\Users\ACER\Desktop\c#\Sayımatik\bin\Debug\Sayımatik.pdb
+C:\Users\ACER\Desktop\c#\Sayımatik\obj\Debug\Sayımatik.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\c#\Sayımatik\obj\Debug\Sayımatik.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Desktop\c#\Sayımatik\obj\Debug\Sayımatik.Properties.Resources.resources
+C:\Users\ACER\Desktop\c#\Sayımatik\obj\Debug\Sayımatik.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\c#\Sayımatik\obj\Debug\Sayımatik.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\c#\Sayımatik\obj\Debug\Sayımatik.exe
+C:\Users\ACER\Desktop\c#\Sayımatik\obj\Debug\Sayımatik.pdb
+C:\Users\ACER\Desktop\c#\Sayımatik\obj\Debug\Sayımatik.Form1.resources
+C:\Users\ACER\Desktop\c#\Sayımatik\obj\Debug\Sayımatik.sayımatikk.resources
+C:\Users\ACER\Desktop\c#\Sayımatik\obj\Debug\Sayımatik.sayımatiko.resources
+C:\Users\ACER\Desktop\c#\Sayımatik\obj\Debug\Sayımatik.sayımatikz.resources
